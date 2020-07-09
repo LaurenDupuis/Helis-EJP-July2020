@@ -5,6 +5,8 @@
 #### Instructors: Dr. Friederike Ehrhart and Dr. Lauren J. Dupuis
 The workshop will begin with a presentation at the MaCSBio Science Day. The hands on piece of the workshop will happen in Zoom to enable more interaction. You can access the Zoom session [here](https://maastrichtuniversity.zoom.us/j/96692159517).
 
+The slides presented can be found [here](Introduction_to_Pathway_Modeling_and_Analysis.pdf).
+
 ## Pathway Drawing
 A quick way to get started with pathway drawing is to go through the steps of the [WikiPathways Academy](https://wikipathways.github.io/academy/).
 
