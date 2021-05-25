@@ -1,6 +1,6 @@
 EJP-RD and Helis Academy Pathway Analysis Practical
 ==============================================================================
-## Date: 9 July, 2020
+## Date: 25 May, 2021
 ## Instructors: Dr. Friederike Ehrhart and Dr. Lauren J. Dupuis
 -----------------------
 Pathway analysis helps you to interpret the data in a biologically meaningful context. We will use the data from the paper “Transcriptome 
